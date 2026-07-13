@@ -1,0 +1,10 @@
+credentials:
+  usernames: {}
+
+cookie:
+  name: carta_cep_cookie
+  key: ALTERAR_PARA_UMA_CHAVE_SECRETA
+  expiry_days: 30
+
+preauthorized:
+  emails: []
