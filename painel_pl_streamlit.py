@@ -129,7 +129,7 @@ def load_workbook(excel_obj, exclude_sheets: List[str]) -> Dict[str, dict]:
             "tipo_col": tipo_col,
             "hist": hist,
             "kind": kind,
-        }
+        } 
 
     return out
 
